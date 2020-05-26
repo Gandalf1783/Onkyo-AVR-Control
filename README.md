@@ -1,4 +1,4 @@
-# Onkyo-AVR-Control
+# Fork of Onkyo-AVR-Control
 A java implementation to remotely control ONKYO AVRs over a local Network.
 
 ### Status:
@@ -14,5 +14,8 @@ Some Java Code from Tom Gutwin, which might get used or adapted, original files 
 https://sites.google.com/a/webarts.ca/toms-blog/Blog/new-blog-items/javaeiscp-integraserialcontrolprotocol
 
 https://sites.google.com/a/webarts.ca/toms-blog/Blog/new-blog-items/javaeiscp-integraserialcontrolprotocolpart2
+
+
+Credit goes to MatthiasKuehne
 
 
